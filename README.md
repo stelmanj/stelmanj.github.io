@@ -1,6 +1,6 @@
-# Julia Stelman
+# stelmanj.github.io
 
-Master’s student in Statistics at Carnegie Mellon University. Class of 2020. 
+Julia Stelman is a master student in Statistics at Carnegie Mellon University. Class of 2020. 
 
 Seeking full-time positions as a data specialist.
 
